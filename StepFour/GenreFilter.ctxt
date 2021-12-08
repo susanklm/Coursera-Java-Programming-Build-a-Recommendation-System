@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GenreFilter
+comment0.text=\r\n\ Susan\ Kolim\ \r\n\ April\ 2021\r\n
+comment1.params=Genre
+comment1.target=GenreFilter(java.lang.String)
+comment2.params=id
+comment2.target=boolean\ satisfies(java.lang.String)
+numComments=3

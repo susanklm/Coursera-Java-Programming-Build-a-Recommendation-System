@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MovieRunnerWithFilters
+comment1.params=rate\ from
+comment1.target=int\ getSmallestValue(java.util.ArrayList,\ int)
+comment2.params=ratingList
+comment2.target=void\ sortByValue(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ printAverageRatings()
+comment4.params=
+comment4.target=void\ printAverageRatingsByYear()
+comment5.params=
+comment5.target=void\ printAverageRatingsByGenre()
+comment6.params=
+comment6.target=void\ printAverageRatingsByMinutes()
+comment7.params=
+comment7.target=void\ printAverageRatingsByDirectors()
+comment8.params=
+comment8.target=void\ printAverageRatingsByYearAfterAndGenre()
+comment9.params=
+comment9.target=void\ printAverageRatingsByDirectorsAndMinutes()
+numComments=10
